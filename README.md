@@ -1,3 +1,3 @@
 #DEMO GIT
 
-Description on Git
+Description on Git and Tutorials
