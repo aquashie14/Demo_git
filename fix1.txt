@@ -1,0 +1,3 @@
+Line 1: This is the original line in the file.
+Line 2: This line is from Branch A.
+Line 3: This line stays the same in both branches.
