@@ -1,1 +1,1 @@
-Today's tutorial is more on resolving git merge conflict. I have previously been working on the basics commands like git add, git commit, git merge, pull request and git status.
+Today's tutorial is more on resolving git merge conflict. I have previously been working
